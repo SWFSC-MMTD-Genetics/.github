@@ -27,4 +27,4 @@ Quickly navigate to our core repositories, projects, and essential links.
 
 
 # Starting A New Project? 
-### [Directions here!](https://github.com/SWFSC-MMTD-Genetics/MMTD-Genetics-Projects/blob/main/CloneMe_NewProject/CopyFolderTemplate.md#how-to-copy-this-project-folder-template) 
+### [Directions here!](https://github.com/SWFSC-MMTD-Genetics/MMTD-Genetics-Projects/blob/main/CreateNewProjects.md) 
