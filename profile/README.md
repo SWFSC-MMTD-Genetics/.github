@@ -13,6 +13,7 @@ This is an organization for the [Marine Mammal](https://www.fisheries.noaa.gov/w
 # Accessioning 
 ### [Repo](https://github.com/SWFSC-MMTD-Genetics/Accession-Template)
 ### [Accessioning Project Board](https://github.com/orgs/SWFSC-MMTD-Genetics/projects/11)
+### [List Including All Closed and Archived Sample Batches](https://github.com/SWFSC-MMTD-Genetics/Accession-Template/issues?q=is%3Aissue%20state%3Aclosed)
 
 # Starting A New Project? 
 ### [Directions here!](https://github.com/SWFSC-MMTD-Genetics/MMTD-Genetics-Projects/blob/main/CreateNewProjects.md) 
