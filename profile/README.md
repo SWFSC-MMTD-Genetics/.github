@@ -6,7 +6,7 @@ This is an organization for the [Marine Mammal](https://www.fisheries.noaa.gov/w
 ### [Shared Google Drive](https://drive.google.com/drive/folders/0AHIVb7et7tTKUk9PVA)
 
 # Lab Projects
-### [Repo](https://github.com/SWFSC-MMTD-Genetics/MMTD-Genetics-Projects)
+### [Project List](https://github.com/SWFSC-MMTD-Genetics/MMTD-Genetics-Projects#projects)
 ### [Project Board](https://github.com/orgs/SWFSC-MMTD-Genetics/projects/9/views/4)
 ### [Inventory Checker](https://github.com/SWFSC-MMTD-Genetics/MMTD-Genetics-Projects/tree/main/Inventory)
 
